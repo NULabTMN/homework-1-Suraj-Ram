@@ -1621,10 +1621,36 @@ doubles and three mixed doubles
       </text>
       </result>
 
-      <!-- TODO add links to 5 non-relevant passages -->
+      <result>
+      <id>https://chroniclingamerica.loc.gov/lccn/sn88085947/1910-02-18/ed-1/seq-3/#words=Alice+Paul</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
       
-
-
+      <result>
+      <id>https://chroniclingamerica.loc.gov/lccn/sn83045433/1913-02-23/ed-1/seq-15/#words=Alice+Paul+Pageant+Ballots+Suffragist+Leaders</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
+      
+      <result>
+      <id>https://chroniclingamerica.loc.gov/lccn/sn86058242/1913-03-22/ed-1/seq-1/#words=Alice+Paul+BOMBARD+WILSON</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
+      
+      <result>
+      <id>https://www.loc.gov/resource/sn83045462/1876-12-06/ed-1/?sp=1&q=brooklyn+theater+fire</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
+      
+      <result>
+      <id>https://www.loc.gov/resource/sn83030214/1876-12-06/ed-1/?sp=1&q=fire+brooklyn+theater</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
+    
     </results>
   </topic>
 
@@ -2576,7 +2602,35 @@ for their employes would be improved.
       </text>
       </result>
 
+      <result>
+      <id>https://www.loc.gov/resource/sn85058130/1890-03-27/ed-1/?sp=1&q=Discussing+suffrage</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
 
+      <result>
+      <id>https://www.loc.gov/resource/sn85066387/1895-05-21/ed-1/?sp=4&q=Womans+Congress+Pacific+Coast</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
+
+      <result>
+      <id>https://www.loc.gov/resource/sn83045211/1916-11-11/ed-1/?sp=6&q=JEANNETTE+RANKIN</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
+
+      <result>
+      <id>https://www.loc.gov/resource/sn83045211/1917-09-04/ed-1/?sp=3&q=SUFFRAGE+BANNER</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
+
+      <result>
+      <id>https://www.loc.gov/resource/sn83045211/1917-11-12/ed-1/?sp=2&q=forty-one+arrested</id>
+      <rel>0</rel>
+      <text></text>
+      </result>
 
     </results>
   </topic>
